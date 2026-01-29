@@ -53,3 +53,16 @@ temp/
 # Package lock files (optional - uncomment if needed)
 # package-lock.json
 # yarn.lock
+
+data/
+*.zip
+*.jpg
+*.png
+*.jpeg
+
+*.h5
+models/*.h5
+venv/
+data/raw/
+__pycache__/
+
